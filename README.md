@@ -19,7 +19,7 @@ De spaarrekening kan niet in het rood staan in tegenstelling tot de zichtrekenin
 
 Maak voor deze toepassing een ***abstracte klasse*** ***Bankrekening*** en 2 afgeleide klassen: ***Spaarrekening*** en ***Zichtrekening***.
 
-![](./media/image2.png)
+![](./media/ClassDiagram1.png)
 
 - De klasse ***Bankrekening*** bevat de volgende methoden:
     - *Constructor* Bankrekening(double opening, string name, string address)
